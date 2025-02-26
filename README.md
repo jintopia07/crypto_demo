@@ -10,8 +10,12 @@ This project is a demo app built with Flutter to display cryptocurrency market d
 🙏🏻 Special Thanks
 A huge thank you to the 'ioteam' for providing valuable knowledge and guidance in developing this project. 
 
-<img src="/assets/image/main.png" width="40%" />
+<p align='center'>
+<img src="/assets/image/main.png" width="200" style="margin-right: 20px;" />
 
-<img src="/assets/image/coin.png" width="40%" />
+<img src="/assets/image/coin.png" width="200" />
+</p>
+
+
 
 
